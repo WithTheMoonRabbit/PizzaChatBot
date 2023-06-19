@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AIWM84L56FvIC/yY5XqkZM4hnwtfOX3bcFhr1DU/NEg=",
+  "Source": "EchoBot1",
+  "BasePath": "_content/EchoBot1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot1\\wwwroot",
+      "Source": "EchoBot1",
+      "ContentRoot": "D:\\VSrepos\\EchoBot1\\EchoBot1\\wwwroot\\",
+      "BasePath": "_content/EchoBot1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VSrepos\\EchoBot1\\EchoBot1\\wwwroot\\default.htm",
+      "SourceId": "EchoBot1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSrepos\\EchoBot1\\EchoBot1\\wwwroot\\",
+      "BasePath": "_content/EchoBot1",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
